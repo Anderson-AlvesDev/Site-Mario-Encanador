@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "mukta", sans-serif;
+}
+
+img {
+    width: 100%;
+    position: fixed;
+    z-index: -1;
+}
+
+div {
+    color: white;
+    margin: 30px;
+    padding: 30px;
+    font-size: 24px;
+}
