@@ -153,6 +153,7 @@ form textarea {
     .mario-img {
         width: 80%;
         height: auto;
+        margin-bottom: 40px;
     }
 
     section {
